@@ -5,7 +5,23 @@ p{
 #title{
     font-family: Courier New;
 }
-.Gate{
-    width: 500px;
-    height: 200px;
+#output{
+    font-family: Courier New;
+    font-size: 200%;
+    font-weight: bold;
+}
+#GateAND{
+    display: none;
+}
+#GateOR{
+    display: none;
+}
+#GateXOR{
+    display: none;
+}
+#GateNAND{
+    display: none;
+}
+#GateNOR{
+    display: none;
 }
